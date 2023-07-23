@@ -1,8 +1,8 @@
 # STYLORE Dashboard
 This project consists of an excel dashboard on the Super Store "STYLORE" data. Concepts like Excel functions, Pivot Tables, Excel charts, etc were used in this. 
 
-## Business Problem -
-Find 3 Key Findings and 3 Key Solutions to increase the Sales in Super Store.
+## Project Objective
+The STYLORE Store wants to create an annual sales report for 2022. So that, the owner of the store can understand their customers and grow more sales in 2023.
 
 ## How to read the Excel file -
 The first tab of the excel file contains the dashboard which displays various charts and vizuals. The second tab of the file has the report containing data. Rest of the tabs have additional information referring the data in the second tab.
@@ -24,7 +24,7 @@ The first tab of the excel file contains the dashboard which displays various ch
 * Merge all pivot tables into one dashboard and apply slicer to make dashboard interactive and dynamic.
 
 ## The DASHBOARD
-![Screenshot (323)](https://github.com/Vishakha-D2/Project2-Stylore/assets/137636261/8ca8f6a0-84e0-4aa1-8e47-30bf4d241c4c)
+![Screenshot (324)](https://github.com/Vishakha-D2/Project2-Stylore/assets/137636261/685c6791-b58c-4f96-a813-a5759029997b)
 
 ## Project Insight
 * Women customers are more likely to buy products compared to men (~65%).
